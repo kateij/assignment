@@ -118,7 +118,7 @@ been uploaded to Maven Central. The repository for accessing this version is
 given in the application PON.
 
 ## HAL Explorer
-The application has also been setup to use the HAL explorer. Uee the following
+The application has also been setup to use the HAL explorer. Use the following
 URL to access it:
 
 http://localhost:8080
