@@ -1,5 +1,3 @@
-#Product REST API
-
 ## General info
 This project is a Restful web service for Products.
 
