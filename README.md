@@ -97,9 +97,9 @@ The deleted product is given in the response.
 #### General
 When the product identified in the the update and delete request is not found
 a ProductNotFoundException is given. This is handled by the RestExceptionHandler
-class and a HTTP status 404 (not found) is given. An error message is also given.
+class and an HTTP status 404 (not found) is given. An error message is also given.
 
-When an invalid price is given a HTTP status 400 (bad request) is given. An error
+When an invalid price is given an HTTP status 400 (bad request) is given. An error
 message is also given. An invalid price is a non-numeric price value.
 
 The error messages are hard-coded. They should be handled using a Spring message
@@ -123,4 +123,4 @@ URL to access it:
 
 http://localhost:8080
 
-The HAL browser is not because this has been replaced by the HAL explorer.
+The HAL browser is not being used because this has been replaced by the HAL explorer.
