@@ -115,7 +115,7 @@ Spring Boot. The Swagger version is 2.9.2. Rather than using an earlier version
 Spring Boot which was found to be compatible a snapshot version of SpringFox
 Swagger is being used. This is version, 3.0.0-SNAPSHOT. This version has not
 been uploaded to Maven Central. The repository for accessing this version is
-given in the application PON.
+given in the application POM.
 
 ## HAL Explorer
 The application has also been setup to use the HAL explorer. Use the following
